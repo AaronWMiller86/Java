@@ -1,2 +1,2 @@
-# java
+# Java
 Java projects and practice
